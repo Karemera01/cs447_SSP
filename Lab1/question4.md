@@ -1,0 +1,12 @@
+ global modules/methods available in Node environment
+ -modules
+ -global
+ -require
+ -process
+ -buffer
+ -setInterval
+ -SetTimeout
+ -events
+ -http
+ -v8
+ -timers

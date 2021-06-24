@@ -1,0 +1,2 @@
+we may want to use  setImmediate instead of using setTimeout due to the athe reason that 
+1) we may want to the function callback to be executed in a priority in  setImmediate while in the first tick rather than waiting for the next tick in the setTimeout.
