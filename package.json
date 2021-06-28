@@ -1,0 +1,26 @@
+{
+  "name": "cs447-ssp",
+  "version": "1.0.0",
+  "description": "assignment purposes",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Karemera01/cs447_SSP.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Karemera01/cs447_SSP/issues"
+  },
+  "homepage": "https://github.com/Karemera01/cs447_SSP#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  },
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
+}
